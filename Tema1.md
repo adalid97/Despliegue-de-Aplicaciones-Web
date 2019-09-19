@@ -196,7 +196,7 @@ Content-Type    | Content-Type: text/html; charset=utf-8 | Tipo MIME del conteni
  Cabecera       |     Ejemplo                   |  Descripción 
 ----------------|-------------------------------|--------------
 Server          | Server: Apache/2.4.1 (Unix)   | Servidor web.
-Status          | Status: 200 OK                | Código de estado.
+Status          | 200 OK                        | Código de estado.
 ...             | ...                           | ...
 
 
